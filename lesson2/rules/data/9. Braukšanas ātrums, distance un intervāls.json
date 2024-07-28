@@ -1,0 +1,180 @@
+[
+    {
+        "number": "99",
+        "text": "99. Transportlīdzekļa vadītājam jābrauc ar ātrumu, kas nepārsniedz noteiktos ierobežojumus, ņemot vērā ceļu satiksmes intensitāti, transportlīdzekļa un kravas īpatnības un stāvokli, kā arī ceļa un meteoroloģiskos apstākļus (īpaši redzamību braukšanas virzienā).",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "100",
+        "text": "100. Ja izveidojas ceļu satiksmei bīstami šķēršļi vai citas briesmas, kuras transportlīdzekļa vadītājs spēj pamanīt, viņam jāsamazina braukšanas ātrums vai pilnīgi jāaptur transportlīdzeklis, vai, neradot bīstamību citiem ceļu satiksmes dalībniekiem, šķērslis jāapbrauc.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "101",
+        "text": "101. Apdzīvotās vietās visu transportlīdzekļu braukšanas ātrums nedrīkst pārsniegt 50 km/h, bet dzīvojamās zonās, daudzdzīvokļu namu pagalmos, degvielas uzpildes staciju un stāvvietu teritorijās – 20 km/h. Ārpus apdzīvotām vietām visu transportlīdzekļu braukšanas ātrums nedrīkst pārsniegt 90 km/h.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "102",
+        "text": "102. Ceļa posmos, kur uzstādītas attiecīgas ceļa zīmes, transportlīdzekļi, ievērojot šo noteikumu 99. punktā minētos nosacījumus, drīkst braukt ar ātrumu, kas nepārsniedz ceļa zīmē norādīto ātrumu.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "103",
+        "text": "103. Citos gadījumos, kas nav minēti šo noteikumu 101. un 102. punktā, transportlīdzekļu braukšanas ātrums nedrīkst pārsniegt:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "103.1",
+                "text": "103.1. pārvadājot pasažierus ārpus kabīnes speciāliem darbiem paredzētos kravas automobiļos, kuru furgona tipa kravas telpā ir ierīkotas pasažieru sēdvietas, – 60 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.2",
+                "text": "103.2. velkot mehāniskos transportlīdzekļus, – 50 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.3",
+                "text": "103.3. velkot šo noteikumu 182. punktā minētos tehnoloģiskos agregātus – piekabes, – 40 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.4",
+                "text": "103.4. braucot pa ceļu, kas apzīmēts ar 552. ceļa zīmi, motocikliem, tricikliem, kvadricikliem, vieglajiem automobiļiem un kravas automobiļiem, kuru pilna masa nepārsniedz 7,5 t, – 120 km/h, autobusiem – 110 km/h, bet laikposmā no 1. decembra līdz 1. martam motocikliem, tricikliem, kvadricikliem, kravas automobiļiem, kuru pilna masa nepārsniedz 7,5 t, un autobusiem – 100 km/h, bet vieglajiem automobiļiem – 110 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.5",
+                "text": "103.5. braucot pa ceļu ar grants vai šķembu segumu, – 80 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.6",
+                "text": "103.6. mopēdiem – 45 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.7",
+                "text": "103.7. specializētajiem atkritumu izvešanas transportlīdzekļiem – 20 km/h, ja tā pasažieris atrodas ārpus kabīnes šim nolūkam paredzētajā stāvēšanas vietā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "103.8",
+                "text": "103.8. elektroskrejriteņiem – 25 km/h.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "104",
+        "text": "104. Transportlīdzekļa vadītājam aizliegts:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "104.1",
+                "text": "104.1. pārsniegt transportlīdzekļa izgatavotāja noteikto maksimālo braukšanas ātrumu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "104.2",
+                "text": "104.2. pārsniegt braukšanas ātrumu, kāds saskaņā ar šo noteikumu 238. punktā minētajām prasībām norādīts pazīšanas zīmē uz transportlīdzekļa;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "104.3",
+                "text": "104.3. traucēt ceļu satiksmi, bez vajadzības braucot ar pārāk mazu ātrumu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "104.4",
+                "text": "104.4. strauji bremzēt, ja tas nav nepieciešams ceļu satiksmes drošībai.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "105",
+        "text": "105. Transportlīdzekļa vadītājam atkarībā no braukšanas ātruma jāizvēlas tāda distance, lai, priekšā braucošajam transportlīdzeklim bremzējot, būtu iespējams izvairīties no sadursmes, kā arī jāizvēlas tāds intervāls, kas nodrošina ceļu satiksmes drošību.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "106",
+        "text": "106. Ārpus apdzīvotām vietām šo noteikumu 241. un 243. punktā minēto transportlīdzekļu (transportlīdzekļu sastāvu) vadītājiem starp savu un priekšā braucošo transportlīdzekli jāietur tāda distance, kas, izteikta metros, ir ne mazāka par pusi no transportlīdzekļa braukšanas ātruma. Šī prasība nav spēkā, ja transport­līdzekļa vadītājs gatavojas apdzīt, kā arī intensīvas ceļu satiksmes apstākļos.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    }
+]

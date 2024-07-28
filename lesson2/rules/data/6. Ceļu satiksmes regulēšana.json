@@ -1,0 +1,289 @@
+[
+    {
+        "number": "44",
+        "text": "44. Satiksmi regulē:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "44.1",
+                "text": "44.1. ar luksoforiem (1. pielikums), kuriem ir zaļas, dzeltenas, sarkanas un baltas gaismas signāli. Luksoforus izgatavo un uzstāda atbilstoši standartu LVS EN 12368:2015 \"Satiksmes regulēšanas tehniskie līdzekļi. Luksofori\" un LVS 370:2010 \"Ceļu satiksmes regulēšanas luksofori\" prasībām;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "44.2",
+                "text": "44.2. satiksmes regulētāji.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "45",
+        "text": "45. Luksoforu signāliem ir šāda nozīme:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "45.1",
+                "text": "45.1. zaļš signāls atļauj kustību. Lai ceļu satiksmes dalībniekus informētu par to, ka zaļā signāla darbības laiks beidzas un drīz iedegsies aizlieguma signāls, var lietot zaļu mirgojošu signālu. Lai ceļu satiksmes dalībniekus informētu par laiku (sekundēs), kas atlicis līdz zaļā signāla darbības laika beigām, var lietot informācijas tablo;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.2",
+                "text": "45.2. dzeltens signāls aizliedz kustību, izņemot šo noteikumu 54. punktā minētos gadījumus, un brīdina par gaidāmo signālu maiņu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.3",
+                "text": "45.3. dzeltens mirgojošs signāls vai divi pārmaiņus mirgojoši dzelteni signāli atļauj kustību un informē par neregulējamu krustojumu, gājēju pāreju, ceļa darbu vietu vai citu bīstamu ceļa posmu. Lai informētu par neregulējamu gājēju pāreju vai vietu, kur satiksme netiek regulēta un brauktuvi šķērso velosipēdu ceļš, gājēju un velosipēdu ceļš vai kopīgs gājēju un velosipēdu ceļš, var lietot dzeltenu mirgojošu signālu vai divus pārmaiņus mirgojošus dzeltenus signālus ar attiecīgi cilvēka siluetu, velosipēda simbolu vai cilvēka siluetu un velosipēda simbolu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.4",
+                "text": "45.4. sarkans signāls (arī mirgojošs) vai divi pārmaiņus mirgojoši sarkani signāli aizliedz kustību. Lai informētu par sarkanā signāla degšanas ilgumu, zem luksofora vai tā sekcijas var uzstādīt paskaidrojoša satura plāksnīti;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.5",
+                "text": "45.5. sarkans signāls vienlaikus ar dzeltenu signālu aizliedz kustību un informē, ka iedegsies zaļais signāls;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.6",
+                "text": "45.6. zaļas bultas (bultu) signāls uz melna fona atļauj braukt norādītajā virzienā (virzienos). Tāda pati nozīme ir zaļai bultai luksofora papildsekcijā, turklāt bulta, kas atļauj nogriezties pa kreisi, atļauj arī apgriezties braukšanai pretējā virzienā. Ja zaļās bultas signāls luksofora papildsekcijā ir izslēgts, transportlīdzekļu braukšana attiecīgajā virzienā ir aizliegta;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.7",
+                "text": "45.7. melna bulta (bultas) uz sarkana un dzeltena signāla fona nemaina šo signālu nozīmi. Tās informē par atļautajiem braukšanas virzieniem, kad iedegsies zaļas bultas (bultu) signāls uz melna fona;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.8",
+                "text": "45.8. melna bulta (bultas) uz zaļa signāla fona norāda, ka luksoforam ir papildsekcija, kā arī atļauj braukt bultas (bultu) norādītajos virzienos;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "45.9",
+                "text": "45.9. sarkana krusta signāls uz melna fona informē par to, ka pretim braucošo transportlīdzekļu vadītājiem luksoforā deg aizliedzošais signāls.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "46",
+        "text": "46. Luksofora signāls ar cilvēka siluetu vai velosipēda simbolu attiecas tikai uz gājējiem, velosipēdu un elektroskrejriteņu vadītājiem. Šo noteikumu 202. un 212.2 punktā minētajā gadījumā, kad velosipēda vai elektroskrejriteņa vadītājs šķērso brauktuvi pa regulējamu gājēju pāreju, viņam jāievēro gājējiem paredzētā luksofora signāls.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "47",
+        "text": "47. Lai informētu neredzīgos gājējus par luksoforu gaismas maiņas signālu pogas atrašanās vietu, kā arī lai informētu gājējus, velosipēdu vai elektroskrejriteņu vadītājus par luksofora gaismas signālu, kas atļauj šķērsot brauktuvi, gājēju vai gājēju un velosipēdu luksofora gaismas signālus var papildināt ar skaņas signāliem.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "48",
+        "text": "48. Transportlīdzekļu satiksmes regulēšanai joslā var lietot luksoforus ar sarkanu \"X\" veida signālu, zaļu lejup vērstas bultas signālu un dzeltenu lejup slīpi vērstas bultas signālu (luksoforus ar ilgstošu signāla degšanas periodu satiksmes regulēšanai joslā). Šiem signāliem ir šāda nozīme:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "48.1",
+                "text": "48.1. sarkans \"X\" veida signāls aizliedz braukt pa joslu, virs kuras tas novietots;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "48.2",
+                "text": "48.2. zaļš lejup vērstas bultas signāls atļauj braukt pa joslu, virs kuras tas novietots;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "48.3",
+                "text": "48.3. dzeltens lejup slīpi vērstas bultas signāls norāda, ka nekavējoties jāpārkārtojas uz bultas norādīto braukšanas joslu.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "49",
+        "text": "49. Ja šo noteikumu 48. punktā minētie luksofora signāli ir izslēgti, joslā, virs kuras luksofors novietots, iebraukt aizliegts.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "50",
+        "text": "50. Tramvaju satiksmes regulēšanai var lietot luksoforus ar četriem baltiem gaismas signāliem, kas izvietoti \"T\" burta veidā. Braukt atļauts tikai tad, ja vienlaikus ar apakšējo signālu iedegts arī viens vai vairāki augšējie signāli, no kuriem kreisais signāls atļauj braukt pa kreisi, vidējais – taisni, labais – pa labi. Ja iedegti tikai trīs augšējie signāli, braukt aizliegts.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "51",
+        "text": "51. Satiksmes regulētāju signāliem ir šāda nozīme:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "51.1",
+                "text": "51.1. rokas paceltas sānis vai nolaistas lejā:",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "51.2",
+                "text": "51.2. labā roka iztaisnota priekšā:",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "51.3",
+                "text": "51.3. roka pacelta augšā – transportlīdzekļiem braukt un gājējiem brauktuvi šķērsot aizliegts, izņemot šo noteikumu 54. punktā minētos gadījumus.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "52",
+        "text": "52. Satiksmes regulētājs var dot arī citus transportlīdzekļu vadītājiem un gājējiem saprotamus signālus. Labākai redzamībai satiksmes regulētājs var lietot zizli. Lai pievērstu ceļu satiksmes dalībnieku uzmanību, satiksmes regulētājs var dot svilpes signālu.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "53",
+        "text": "53. Ja satiksmes regulētāja vai luksofora signāli, izņemot šo noteikumu 48. punktā minēto luksoforu, braukt aizliedz, transportlīdzekļa vadītājam jāaptur transportlīdzeklis tieši pirms stoplīnijas (929. ceļa apzīmējums) vai 546. ceļa zīmes. Ja nav stoplīnijas (929. ceļa apzīmējums) vai 546. ceļa zīmes, transport­līdzeklis jāaptur šādās vietās:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "53.1",
+                "text": "53.1. pirms krustojumiem un citos ceļa posmos – pirms gājēju pārejas, bet vietās, kur tās nav, – pirms luksofora (ja braukt aizliedz satiksmes regulētāja signāls, – pirms brauktuvju krustošanās vietas) tā, lai netraucētu citus transport­līdzekļus un gājējus, kuru kustība ir atļauta;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "53.2",
+                "text": "53.2. pirms dzelzceļa pārbrauktuvēm – saskaņā ar šo noteikumu 155. punktu.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "54",
+        "text": "54. Ja, iedegoties dzeltenajam signālam vai brīdī, kad satiksmes regulētājs paceļ roku augšā, transportlīdzekļa vadītājs transportlīdzekli šo noteikumu 53. punktā minētajās vietās var apturēt, tikai strauji bremzējot, šā transport­līdzekļa vadītājs drīkst ceļu turpināt, neapturot transportlīdzekli. Gājējiem, kuri šajā brīdī atrodas uz brauktuves, jāpabeidz to šķērsot vai jāapstājas uz \"drošības saliņas\".",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "55",
+        "text": "55. Transportlīdzekļu vadītājiem un gājējiem jāpakļaujas satiksmes regulētāja signāliem un norādījumiem arī tad, ja tie ir pretrunā ar luksofora signālu, ceļa zīmju vai ceļa apzīmējumu prasībām.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "56",
+        "text": "56. Amatpersonai, kas dod norādījumu apstādināt transportlīdzekli, jābūt tērptai formas tērpā ar gaismu atstarojoša materiāla elementiem un atšķirības zīmi. Ja apstādināšana notiek no šo noteikumu 25.7.1. apakšpunktā minētajiem transportlīdzekļiem, gaismu atstarojoša materiāla elementi nav obligāti.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    }
+]

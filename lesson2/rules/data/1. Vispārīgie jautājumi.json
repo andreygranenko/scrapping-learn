@@ -1,0 +1,361 @@
+[
+    {
+        "number": "1",
+        "text": "1. Noteikumi nosaka ceļu satiksmes kārtību Latvijā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "2",
+        "text": "2. Noteikumos lietotie termini:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "2.1",
+                "text": "2.1. apbraukšana – braukšana garām vienam vai vairākiem pilnīgi vai daļēji uz brauktuves apturētiem transportlīdzekļiem, kā arī citiem šķēršļiem (kavēkļiem), kas saistīta ar braukšanas virziena maiņu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.2",
+                "text": "2.2. apdzīšana – braukšana garām vienam vai vairākiem braucošiem transportlīdzekļiem, iebraucot pretējā braukšanas joslā (brauktuves pusē) un atgriežoties iepriekšējā braukšanas joslā (brauktuves pusē);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.3",
+                "text": "2.3. apdzīvota vieta – apbūvēta pilsētas vai ciema teritorija, kurā iebraukšana apzīmēta ar 519. vai 555. ceļa zīmi, bet izbraukšana – ar 520. vai 556. ceļa zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.4",
+                "text": "2.4. apstāšanās – transportlīdzekļa apturēšana uz laiku, kas nepārsniedz piecas minūtes, ja tā ir nepieciešama pasažieru iekāpšanai transportlīdzeklī vai izkāpšanai no tā, kravas iekraušanai transportlīdzeklī vai izkraušanai no tā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.5",
+                "text": "2.5. apsteigšana – braukšana garām vienam vai vairākiem braucošiem transportlīdzekļiem, neiebraucot pretējā braukšanas joslā (brauktuves pusē);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.6",
+                "text": "2.5.1 ar alternatīvo degvielu darbināms transportlīdzeklis – mehānisks transportlīdzeklis, kuru pilnībā vai daļēji darbina ar elektroenerģiju, ūdeņradi, dabasgāzi gāzveida agregātstāvoklī, dabasgāzi šķidrā agregātstāvoklī, biometānu, sašķidrināto naftas gāzi vai ar mehānisku enerģiju, kas gūta no mehāniskajos transportlīdzekļos uzstādītas uzglabāšanas iekārtas vai uzstādītiem avotiem, tostarp no siltuma pārpalikuma;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.7",
+                "text": "2.5.2 bezemisiju lielas noslodzes transportlīdzeklis – bezemisiju lielas noslodzes transportlīdzeklis, kā tas definēts Eiropas Parlamenta un Padomes 2019. gada 20. jūnija Regulas (ES)  2019/1242 par CO2 emisiju standartu noteikšanu jauniem lielas noslodzes transportlīdzekļiem un ar kuru groza Eiropas Parlamenta un Padomes Regulas (EK) Nr.  595/2009 un (ES)  2018/956 un Padomes Direktīvu 96/53/EK, 3. panta 11. punktā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.8",
+                "text": "2.6. bīstama krava – krava, kas pārvadāšanas vai uzglabāšanas procesā savu īpašību dēļ var izraisīt sprādzienu, ugunsgrēku vai citus postījumus, kā arī apdraudēt cilvēku dzīvību vai veselību;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.9",
+                "text": "2.7. braukšanas josla – jebkura brauktuves garenvirziena josla (var būt apzīmēta ar ceļa apzīmējumiem), kura ir pietiekami plata, lai pa to vienā rindā varētu braukt automobiļi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.10",
+                "text": "2.8. brauktuve – ceļa daļa, kas paredzēta transportlīdzekļu braukšanai. Ceļam var būt vairākas brauktuves, kuras norobežotas ar sadalošajām joslām vai barjerām;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.11",
+                "text": "2.9. dot ceļu – prasība, kas nosaka, ka ceļu satiksmes dalībnieks nedrīkst sākt braukt (iet), turpināt braukt (iet) vai izdarīt jebkādu manevru, ja tādējādi citiem ceļu satiksmes dalībniekiem tiek radīti traucējumi braukšanai (iešanai) vai viņi ir spiesti mainīt braukšanas (iešanas) virzienu vai ātrumu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.12",
+                "text": "2.10. dzelzceļa pārbrauktuve – ceļa krustošanās ar dzelzceļa sliežu ceļa klātni vienā līmenī. Dzelzceļa pārbrauktuves robeža ir iedomāta līnija, kas perpendikulāri ceļa asij šķērso brauktuvi, sākot no dzelzceļa pārbrauktuves barjeras, bet, ja šādas barjeras nav, – no 134. vai 135. ceļa zīmes;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.13",
+                "text": "2.11. dzīvojamā zona – apbūvēta teritorija (dzīvojamais masīvs, atpūtas vieta) vai tās daļa, kurā iebraukšana apzīmēta ar 533. ceļa zīmi, bet izbraukšana – ar 534. ceļa zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.14",
+                "text": "2.12. elektromobilis – mehāniskais transportlīdzeklis, kas pēc savas konstrukcijas kā vienīgo mehānisko dzinējspēku izmanto enerģiju no transportlīdzeklī glabātās elektroenerģijas vai dzinējspēka glabāšanas iekārtas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.15",
+                "text": "2.13. faktiskā masa – transportlīdzekļa masa kopā ar transportlīdzekļa vadītāju, pasažieriem un kravu. Vilcējam ar piekabi (puspiekabi) faktiskā masa ir vilcēja un piekabes (puspiekabes) faktisko masu summa;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.16",
+                "text": "2.14. galvenais ceļš – ceļš, kas apzīmēts ar 201., 203., 204. vai 205. ceļa zīmi, vai ceļš, uz kura nav uzstādītas priekšrocības ceļa zīmes attiecībā pret ceļu, uz kura uzstādīta 206. vai 207. ceļa zīme, vai ceļš ar asfalta, asfaltbetona, bruģa u. tml. segumu attiecībā pret ceļu ar grants vai šķembu segumu, vai ceļš ar jebkādu segumu attiecībā pret ceļu bez seguma, vai jebkurš ceļš attiecībā pret vietu, kur uz ceļa izbrauc no blakusteritorijas (pagalma, stāvvietas, degvielas uzpildes stacijas, uzņēmuma u. tml.). Šā termina izpratnē mazāk svarīga ceļa posma segums tieši pirms krustojuma nenozīmē, ka attiecīgais ceļš ir vienādas nozīmes ar krustojamo ceļu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.17",
+                "text": "2.15. gājēju ceļš – atdalīts ceļš vai ceļa daļa, kas paredzēta gājējiem un apzīmēta ar 415. ceļa zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.18",
+                "text": "2.16. gājēju pāreja – brauktuves daļa, kas apzīmēta ar 535. un 536. ceļa zīmi un (vai) 931. ceļa apzīmējumu un paredzēta gājēju pāriešanai pāri brauktuvei;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.19",
+                "text": "2.17. gājēju un velosipēdu ceļš – atdalīts ceļš vai ceļa daļa, kas paredzēta gājējiem un braukšanai ar velosipēdu vai elektroskrejriteni un apzīmēta ar 419. vai 421. ceļa zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.20",
+                "text": "2.18. ietve – ceļa daļa, kas paredzēta gājējiem. Ietve piekļaujas brauktuvei vai ir atdalīta no tās;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.21",
+                "text": "2.19. kopīgs gājēju un velosipēdu ceļš – atdalīts ceļš vai ceļa daļa, kas paredzēta jauktai gājēju, velosipēdu un elektroskrejriteņu satiksmei un apzīmēta ar 417. ceļa zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.22",
+                "text": "2.20. krustojums – vieta, kur krustojas, piekļaujas vai atzarojas ceļi vienā līmenī, kā arī vieta, kur ceļu satiksme organizēta ar 409. ceļa zīmi. Krustojums ir norobežots ar iedomātām līnijām, kas savieno brauktuves pretējo malu noapaļojuma sākumu. Šis termins neattiecas uz vietu, kur uz brauktuves izbrauc no blakusteritorijas (pagalma, stāvvietas, degvielas uzpildes stacijas, uzņēmuma u. tml.) vai iebrauc tajā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.23",
+                "text": "2.21. nomale – ceļa daļa, kas piekļaujas brauktuvei un nav paredzēta mehānisko transportlīdzekļu braukšanai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.24",
+                "text": "2.22. pasažieru sabiedriskais transportlīdzeklis – autobuss, trolejbuss vai tramvajs, kas brauc pa noteiktu maršrutu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.25",
+                "text": "2.23. piespiedu apstāšanās – transportlīdzekļa apturēšana tehniska bojājuma dēļ vai bīstamības dēļ, ko rada transportlīdzekļa vadītāja vai pasažiera veselības stāvoklis, vedamā krava vai ceļu satiksmei bīstams šķērslis uz ceļa;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.26",
+                "text": "2.24. priekšroka – tiesības braukt (iet) iecerētajā virzienā pirmajam attiecībā pret citiem ceļu satiksmes dalībniekiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.27",
+                "text": "2.25. sadalošā josla – ceļa daļa, kas vienu no otras norobežo blakus brauktuves vai līdztekus izvietotus ceļus (piemēram, gājēju un velosipēdu ceļi) un nav paredzēta transportlīdzekļu braukšanai vai apturēšanai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.28",
+                "text": "2.26. satiksmes regulētājs – persona, kas regulē ceļu satiksmi un ir pilnvarota to darīt;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.29",
+                "text": "2.27. stāvēšana – transportlīdzekļa apturēšana, ja tā nav saistīta ar pasažieru iekāpšanu transportlīdzeklī vai izkāpšanu no tā, kravas iekraušanu transportlīdzeklī vai izkraušanu no tā, kā arī transportlīdzekļa apturēšana uz laiku, kas pārsniedz piecas minūtes, ja tā ir saistīta ar pasažieru iekāpšanu transportlīdzeklī vai izkāpšanu no tā, kravas iekraušanu transportlīdzeklī vai izkraušanu no tā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.30",
+                "text": "2.28. transportlīdzekļu sastāvs – mehāniskais transportlīdzeklis, kas savienots ar piekabi (puspiekabi), kā arī savienots velkošais un velkamais transportlīdzeklis;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.31",
+                "text": "2.29. velojosla – josla uz brauktuves, kas paredzēta braukšanai ar velosipēdu un elektroskrejriteni un no citu transportlīdzekļu joslas ir atdalīta ar 920. vai 925. ceļa apzīmējumu vai paaugstinātu apmali (tiek apzīmēta ar 941. ceļa apzīmējumu; var tikt apzīmēta ar 413. un 817. ceļa zīmi);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "2.32",
+                "text": "2.30. velosipēdu ceļš – atdalīts ceļš vai ceļa daļa, kas paredzēta braukšanai ar velosipēdiem un elektroskrejriteņiem un apzīmēta ar 413. ceļa zīmi un 932. vai 941. ceļa apzīmējumu.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "3",
+        "text": "3. Nacionālo bruņoto spēku speciālās militārās tehnikas pārvietošanās pa ceļu atļauta:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "3.1",
+                "text": "3.1. ja attiecīgie ceļa posmi tiek slēgti normatīvajos aktos par ceļu satiksmi noteiktajā kārtībā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "3.2",
+                "text": "3.2. ja speciālo militāro tehniku pavada Militārā policija;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "3.3",
+                "text": "3.3. ja speciālajai militārajai tehnikai priekšpusē ir iedegts baltas gaismas lukturis (lukturi), aizmugurē – sarkanas gaismas lukturis (lukturi), kā arī papildus ir iedegta mirgojoša oranža (dzeltena) bākuguns, kura redzama gan no priekšpuses, gan no aizmugures.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "4",
+        "text": "4. Īslaicīgi braukt pa ceļu ārpus apdzīvotām vietām, ja tas nepieciešams ceļa vai tilta šķērsošanai, atļauts mopēdiem, tricikliem, kvadricikliem un motocikliem, kuru izmantošanu ceļu satiksmē izgatavotājs nav paredzējis, kā arī sniega motocikliem, kas reģistrēti transportlīdzekļu un to vadītāju valsts reģistrā saskaņā ar normatīvajiem aktiem par transportlīdzekļu reģistrāciju, un speciālai traktortehnikai, kas reģistrēta traktortehnikas un tās vadītāju valsts informatīvajā sistēmā, bet kurus to izgatavotājs nav paredzējis izmantošanai ceļu satiksmē. Piedaloties ceļu satiksmē ar šādu transportlīdzekli, tā vadītājam jādara viss iespējamais, lai tiktu nodrošināta ceļu satiksmes drošība.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "5",
+        "text": "5. Ceļu satiksmes dalībniekiem aizliegts:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "5.1",
+                "text": "5.1. bojāt, patvaļīgi noņemt vai uzstādīt ceļa zīmes, luksoforus vai citus ceļu satiksmes organizācijas vai kontroles tehniskos līdzekļus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "5.2",
+                "text": "5.2. bojāt, piesārņot vai piegružot ceļu.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "6",
+        "text": "6. Ja ceļu satiksmes dalībnieks piesārņojis vai piegružojis brauktuvi (izkritusi krava, izlijusi eļļa u. tml.), viņam tā nekavējoties jānotīra, bet, ja tas nav iespējams, par to jābrīdina citi ceļu satiksmes dalībnieki un jāpaziņo policijai.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    }
+]

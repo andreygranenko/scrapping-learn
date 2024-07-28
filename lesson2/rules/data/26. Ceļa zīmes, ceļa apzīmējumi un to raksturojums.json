@@ -1,0 +1,2584 @@
+[
+    {
+        "number": "247",
+        "text": "247. Ceļa zīmēm (turpmāk – zīmes) (4. pielikums) jāatbilst standartam LVS 77–1:2016 \"Ceļa zīmes. 1. daļa: Ceļa zīmes\", LVS 77-2:2016 \"Ceļa zīmes. 2. daļa: Uzstādīšanas noteikumi\" un LVS 77-3:2016 \"Ceļa zīmes. 3. daļa: Tehniskās prasības\".",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "248",
+        "text": "248. Maināmām informācijas zīmēm (zīmes, kurās sniegto teksta un (vai) simbolu informāciju var mainīt) jāatbilst standartam LVS 77–1:2016 \"Ceļa zīmes. 1. daļa: Ceļa zīmes\", LVS 77-2:2016 \"Ceļa zīmes. 2. daļa: Uzstādīšanas noteikumi\" un LVS 77-3:2016 \"Ceļa zīmes. 3. daļa: Tehniskās prasības\".",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "249",
+        "text": "249. Ja pagaidu zīmēm, kas novietotas, piemēram, uz pārvietojama statīva, transportlīdzekļa, kas veic ceļa darbus, vai citā veidā, kas norāda šo zīmju uzstādīšanas pagaidu raksturu, ir cita nozīme nekā stacionārām zīmēm, transport­līdzekļa vadītājiem jāievēro pagaidu zīmju prasības. Darbu vietu aprīkošanai uz ceļiem ir atļauta pagaidu zīmju baltā fona nomaiņa pret dzeltenu.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "250",
+        "text": "250. Brīdinājuma zīmes brīdina transportlīdzekļu vadītājus par tuvošanos bīstamam ceļa posmam. Braucot pa šo posmu, transportlīdzekļa vadītājam jārīkojas atbilstoši apstākļiem. Brīdinājuma zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "250.1",
+                "text": "250.1. 101. zīme \"Vienādas nozīmes ceļu krustojums\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.2",
+                "text": "250.2. 102. zīme \"Lokveida krustojums\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.3",
+                "text": "250.3. 103. un 104. zīme \"Bīstams pagrieziens\". Ceļa pagrieziens (103. zīme – pa labi; 104. zīme – pa kreisi) ar mazu rādiusu vai pagrieziens, kura redzamību ierobežo ēkas, apstādījumi u. tml.;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.4",
+                "text": "250.4. 105. un 106. zīme \"Bīstami pagriezieni\". Ceļa posms ar bīstamiem pagriezieniem (105. zīme – pirmais pagrieziens pa labi; 106. zīme – pirmais pagrieziens pa kreisi);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.5",
+                "text": "250.5. 107., 108. un 109. zīme \"Ceļa sašaurinājums\" (107. zīme – no abām pusēm; 108. zīme – no labās puses; 109. zīme – no kreisās puses);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.6",
+                "text": "250.6. 110. zīme \"Stāvs lejupceļš\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.7",
+                "text": "250.7. 111. zīme \"Stāvs augšupceļš\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.8",
+                "text": "250.8. 112. zīme \"Nelīdzens ceļš\". Ceļa posms, kur uz brauktuves ir nelīdzenumi (viļņi, bedres, nelīdzenas ceļa un tilta salaiduma vietas u. tml.);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.9",
+                "text": "250.9. 113. zīme \"Ātrumvalnis\". Ceļa posms, kur uz brauktuves izveidoti mākslīgi paaugstinājumi braukšanas ātruma samazināšanai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.10",
+                "text": "250.10. 114. zīme \"Ceļa seguma maiņa\". Ceļa posms, kur asfaltbetona vai cementbetona segums mainās uz grants segumu un otrādi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.11",
+                "text": "250.11. 115. zīme \"Slidens ceļš\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.12",
+                "text": "250.12. 116. zīme \"Uzbērta grants vai šķembas\". Ceļa posms, kurā no riteņu apakšas var tikt izsviesta grants, šķembas u. tml. materiāli;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.13",
+                "text": "250.13. 117. zīme \"Akmeņu nogruvumi\". Ceļa posms, kur iespējami nogruvumi, noslīdeņi, krītoši akmeņi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.14",
+                "text": "250.14. 118. zīme \"Uz ceļa strādā\". Ceļa posms, kur uz ceļa, blakus tam vai virs tā tiek veikti jebkādi darbi, kas aizņem ceļu vai ietekmē satiksmes apstākļus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.15",
+                "text": "250.15. 119. zīme \"Ceļš ar bīstamām nomalēm\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.16",
+                "text": "250.16. 120. zīme \"Gājēju pāreja\". Tuvošanās ar 535. un 536. zīmi apzīmētai gājēju pārejai, kur jādod ceļš gājējiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.17",
+                "text": "250.17. 121. zīme \"Bērni\". Ceļa posms, kur uz brauktuves pēkšņi var uziet bērni;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.18",
+                "text": "250.18. 122. zīme \"Divvirzienu satiksme\". Ceļa (brauktuves) posma sākums, kur ceļu satiksme notiek abos virzienos;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.19",
+                "text": "250.19. 123. zīme \"Luksofors\". Krustojums, gājēju pāreja vai ceļa posms, kur ceļu satiksmi regulē luksofors;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.20",
+                "text": "250.20. 124. zīme \"Mājdzīvnieki\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.21",
+                "text": "250.21. 125. zīme \"Savvaļas dzīvnieki\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.22",
+                "text": "250.22. 126. zīme \"Paceļams tilts\". Paceļams tilts vai prāmja pārceltuve;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.23",
+                "text": "250.23. 127. zīme \"Krastmala\". Vieta, kur ceļš iziet uz krastmalu vai kādas ūdenstilpes krastu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.24",
+                "text": "250.24. 128. zīme \"Sānvējš\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.25",
+                "text": "250.25. 129. zīme \"Zemu lidojošas lidmašīnas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.26",
+                "text": "250.26. 130. zīme \"Velosipēdu ceļa šķērsošana\". Vieta, kur ceļu šķērso velosipēdu ceļš, gājēju un velosipēdu ceļš, kopīgs gājēju un velosipēdu ceļš, velojosla vai uz ceļa bieži izbrauc velosipēdi un elektroskrejriteņi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.27",
+                "text": "250.27. 131. zīme \"Tramvaja sliežu šķērsošana\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.28",
+                "text": "250.28. 132. zīme \"Dzelzceļa pārbrauktuve ar barjeru\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.29",
+                "text": "250.29. 133. zīme \"Dzelzceļa pārbrauktuve bez barjeras\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.30",
+                "text": "250.30. 134. zīme \"Viensliežu dzelzceļa pārbrauktuve\". Dzelzceļa pārbrauktuve ar vienu sliežu ceļu, kur nav ierīkota barjera;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.31",
+                "text": "250.31. 135. zīme \"Daudzsliežu dzelzceļa pārbrauktuve\". Dzelzceļa pārbrauktuve ar diviem vai vairākiem sliežu ceļiem, kur nav ierīkota barjera;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.32",
+                "text": "250.32. 136., 137., 138., 139., 140. un 141. zīme \"Tuvojas dzelzceļa pārbrauktuve\". Papildu brīdinājums par tuvošanos dzelzceļa pārbrauktuvei ārpus apdzīvotām vietām;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.33",
+                "text": "250.33. 142. zīme \"Bīstami\". Bīstams ceļa posms, kura bīstamību nevar apzīmēt ar citām brīdinājuma zīmēm;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "250.34",
+                "text": "250.34. 143. zīme \"Sastrēgums\".",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "251",
+        "text": "251. Ārpus apdzīvotām vietām 101., 102., 103., 104., 105., 106., 107., 108., 109., 110., 111., 112., 113., 114., 115., 116., 117., 118., 119., 120., 121., 122., 123., 124., 125., 126., 127., 128., 129., 130., 131., 132., 133., 142. un 143. zīmi uzstāda 150–200 m pirms bīstamā ceļa posma, bet apdzīvotās vietās – 50–60 m pirms tā. Ja nepieciešams, zīmes uzstāda citā attālumā, ko norāda ar 801. zīmi.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "252",
+        "text": "252. Ārpus apdzīvotām vietām 118., 121., 126., 127., 132. un 133. zīmi uzstāda atkārtoti. Otru zīmi uzstāda vismaz 50 m pirms bīstamā posma sākuma.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "253",
+        "text": "253. Ierobežotos apstākļos un apdzīvotā vietā otru 118. zīmi var uzstādīt tieši ceļa darbu vietas sākumā. Ja ceļa darbi ir īslaicīgi, 118. zīmi (bez 801. zīmes) var uzstādīt 10–15 m pirms ceļa darbu vietas.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "254",
+        "text": "254. 113. zīme var nebūt uzstādīta dzīvojamās zonās, kā arī vietās, kur maksimālais atļautais braukšanas ātrums nepārsniedz 30 km/h.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "255",
+        "text": "255. 134. un 135. zīmi uzstāda tieši pirms dzelzceļa pārbrauktuves.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "256",
+        "text": "256. Ja stāvs lejupceļš vai augšupceļš seko viens aiz otra, tad 110. vai 111. zīme var tikt uzstādītas pirms otrā vai tam sekojošā lejupceļa vai augšupceļa sākuma attālumā, ko norāda ar 801. papildzīmi.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "257",
+        "text": "257. 136., 138. un 140. zīmi uzstāda ceļa labajā pusē, bet 137., 139. un 141. zīmi – kreisajā pusē. 136. un 137. zīmi uzstāda kopā ar braukšanas virzienā pirmo 132. vai 133. zīmi; 140. un 141. zīmi – ar otro 132. vai 133. zīmi. 138. un 139. zīmi uzstāda atsevišķi vienādā attālumā starp pirmo un otro 132. zīmi vai pirmo un otro 133. zīmi.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "258",
+        "text": "258. Priekšrocības zīmes norāda braukšanas secību neregulējamos krustojumos, brauktuvju krustošanās vietās vai šauros ceļa posmos. Priekšrocības zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "258.1",
+                "text": "258.1. 201. zīme \"Galvenais ceļš\". Ceļš, pa kuru braucot ir priekšroka šķērsot neregulējamus krustojumus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "258.2",
+                "text": "258.2. 202. zīme \"Galvenā ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "258.3",
+                "text": "258.3. 203., 204. un 205. zīme \"Krustojums ar mazāk svarīgu ceļu\" (203. zīme – no abām pusēm; 204. zīme – no labās puses; 205. zīme – no kreisās puses). Uz vienas zīmes var būt attēloti divi savstarpēji tuvu esoši krustojumi, un attālumu starp tiem nenorāda. Šīs zīmes uzstāda ārpus apdzīvotām vietām 150–200 m attālumā no krustojuma;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "258.4",
+                "text": "258.4. 206. zīme \"Dodiet ceļu\". Transportlīdzekļa vadītājam jādod ceļš transportlīdzekļiem, kuri brauc pa šķērsojamo ceļu, bet, ja papildus uzstādīta 847. zīme, – jādod ceļš transportlīdzekļiem, kuri brauc pa galveno ceļu, kā arī transportlīdzekļiem, kas tuvojas pa vienādas nozīmes ceļu no labās puses, izņemot tramvaju vadītājus, kuriem saskaņā ar šo noteikumu 134. punktu šajā gadījumā ir priekšroka;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "258.5",
+                "text": "258.5. 207. zīme \"Neapstājoties tālāk braukt aizliegts\". Aizliegts braukt tālāk, neapturot transportlīdzekli tieši pirms stoplīnijas (929. apzīmējums), bet, ja tās nav, – tieši pirms šķērsojamās brauktuves malas. Transportlīdzekļa vadītājam jādod ceļš transportlīdzekļiem, kuri brauc pa šķērsojamo ceļu, bet, ja papildus uzstādīta 847. zīme, – jādod ceļš transportlīdzekļiem, kuri brauc pa galveno ceļu, kā arī transportlīdzekļiem, kas tuvojas pa vienādas nozīmes ceļu no labās puses, izņemot tramvaja vadītājus, kuriem saskaņā ar šo noteikumu 134. punktu šajā gadījumā ir priekšroka. 207. zīmi var uzstādīt arī pirms neapsargājamas dzelzceļa pārbrauktuves, kā arī speciāla karantīnas posteņa, robežas šķērsošanas vietas un citām vietām, kur ceļu satiksmi apstādina ar barjeru vai citādi. Šajā gadījumā transportlīdzekļa vadītājam jāaptur transportlīdzeklis tieši pirms stoplīnijas (929. apzīmējums), bet, ja tās nav, – tieši pirms zīmes;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "258.6",
+                "text": "258.6. 208. zīme \"Priekšroka pretim braucošajiem\". Aizliegts iebraukt ceļa sašaurinātajā posmā, ja tas var apgrūtināt pretim braukšanu. Transportlīdzekļa vadītājam jādod ceļš pretim braucošajiem transportlīdzekļiem, kuri atrodas ceļa sašaurinātajā posmā vai šā posma pretējā galā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "258.7",
+                "text": "258.7. 209. zīme \"Priekšroka attiecībā pret pretim braucošajiem\". Šaurs ceļa posms, pa kuru braucot transportlīdzekļa vadītājam ir priekšroka attiecībā pret pretim braucošajiem transportlīdzekļiem.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "259",
+        "text": "259. Aizlieguma zīmes nosaka vai atceļ noteiktus ceļu satiksmes ierobežojumus. Aizlieguma zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "259.1",
+                "text": "259.1. 301. zīme \"Iebraukt aizliegts\". Aizliegts iebraukt jebkādiem trans­portlīdzekļiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.2",
+                "text": "259.2. 302. zīme \"Braukt aizliegts\". Aizliegts braukt jebkādiem transport­līdzekļiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.3",
+                "text": "259.3. 303. zīme \"Mehāniskajiem transportlīdzekļiem braukt aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.4",
+                "text": "259.4. 304. zīme \"Motocikliem braukt aizliegts\". Aizliegts braukt divriteņu mopēdiem, motocikliem, tricikliem un kvadricikliem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.5",
+                "text": "259.5. 305. zīme \"Velosipēdiem braukt aizliegts\". Aizliegts braukt velosipēdiem un elektroskrejriteņiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.6",
+                "text": "259.6. 306. zīme \"Kravas automobiļiem braukt aizliegts\". Aizliegts braukt kravas automobiļiem un to sastāviem, kuru pilna masa ir lielāka par 3,5 t (ja zīmē pilna masa nav norādīta) vai kuru pilna masa ir lielāka par zīmē norādīto, kā arī traktortehnikai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.7",
+                "text": "259.7. 307. zīme \"Ar piekabi braukt aizliegts\". Aizliegts braukt kravas automobiļiem un traktortehnikai ar jebkura tipa piekabi, kā arī vilkt mehānisko transportlīdzekli;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.8",
+                "text": "259.8. 308. zīme \"Traktoriem braukt aizliegts\". Aizliegts braukt traktor­tehnikai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.9",
+                "text": "259.9. 309. zīme \"Gājējiem iet aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.10",
+                "text": "259.10. 310. zīme \"Platuma ierobežojums\". Aizliegts braukt transport­līdzekļiem, kuru gabarīts (ar kravu vai bez tās) platumā pārsniedz zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.11",
+                "text": "259.11. 311. zīme \"Augstuma ierobežojums\". Aizliegts braukt transport­līdzekļiem, kuru gabarīts (ar kravu vai bez tās) augstumā no brauktuves virsmas pārsniedz zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.12",
+                "text": "259.12. 312. zīme \"Masas ierobežojums\". Aizliegts braukt transport­līdzekļiem (transportlīdzekļu sastāviem), kuru kopējā faktiskā masa pārsniedz zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.13",
+                "text": "259.13. 313. zīme \"Ass slodzes ierobežojums\". Aizliegts braukt transport­līdzekļiem, kuriem faktiskā slodze uz jebkuru asi pārsniedz zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.14",
+                "text": "259.14. 314. zīme \"Garuma ierobežojums\". Aizliegts braukt transport­līdzekļiem (transportlīdzekļu sastāviem), kuru gabarīts (ar kravu vai bez tās) garumā pārsniedz zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.15",
+                "text": "259.15. 315. zīme \"Nogriezties pa labi aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.16",
+                "text": "259.16. 316. zīme \"Nogriezties pa kreisi aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.17",
+                "text": "259.17. 317. zīme \"Apgriezties braukšanai pretējā virzienā aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.18",
+                "text": "259.18. 318. zīme \"Minimālās distances ierobežojums\". Distance starp braucošiem transportlīdzekļiem nedrīkst būt mazāka par zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.19",
+                "text": "259.19. 319. zīme \"Apdzīt aizliegts\". Aizliegts apdzīt jebkurus transport­līdzekļus, izņemot atsevišķi braucošos transportlīdzekļus un to sastāvus, kuri brauc ar ātrumu, kas mazāks par 30 km/h;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.20",
+                "text": "259.20. 320. zīme \"Apdzīšanas aizliegums beidzas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.21",
+                "text": "259.21. 321. zīme \"Kravas automobiļiem apdzīt aizliegts\". Kravas auto­mobiļiem un to sastāviem, kuru pilna masa pārsniedz 3,5 t, aizliegts apdzīt jebkurus transportlīdzekļus, izņemot atsevišķi braucošos transportlīdzekļus un to sastāvus, kuri brauc ar ātrumu, kas mazāks par 30 km/h. Traktortehnikai aizliegts apdzīt jebkurus transportlīdzekļus, izņemot pajūgus un velosipēdus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.22",
+                "text": "259.22. 322. zīme \"Kravas automobiļiem apdzīšanas aizliegums beidzas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.23",
+                "text": "259.23. 323. zīme \"Maksimālā ātruma ierobežojums\". Aizliegts braukt ar ātrumu (km/h), kas pārsniedz zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.24",
+                "text": "259.24. 324. zīme \"Maksimālā ātruma ierobežojums beidzas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.25",
+                "text": "259.25. 325. zīme \"Skaņas signālu lietot aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.26",
+                "text": "259.26. 326. zīme \"Apstāties aizliegts\". Transportlīdzekļiem aizliegts apstāties un stāvēt;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.27",
+                "text": "259.27. 327. zīme \"Stāvēt aizliegts\". Transportlīdzekļiem aizliegts stāvēt;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.28",
+                "text": "259.28. 328. zīme \"Nepāra datumos stāvēt aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.29",
+                "text": "259.29. 329. zīme \"Pāra datumos stāvēt aizliegts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.30",
+                "text": "259.30. 330. zīme \"Visi ierobežojumi beidzas\". Vienlaikus apzīmē 318., 319., 321., 323., 325., 326., 327., 328. un 329. zīmes darbības zonas beigas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.31",
+                "text": "259.31. 331. zīme \"Muita\". Neapturot transportlīdzekli tieši pirms zīmes, tālāk braukt aizliegts. Atļauju braukt tālāk dod muitas (kontroles punkta) amat­persona;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.32",
+                "text": "259.32. 332. zīme \"Policija\". Neapturot transportlīdzekli tieši pirms zīmes, tālāk braukt aizliegts. Atļauju braukt tālāk dod policijas darbinieks vai robežsargs (uz valsts robežas);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.33",
+                "text": "259.33. 333. zīme \"Tālāk braukt bīstami\". Aizliegts tālāk braukt visiem (bez izņēmuma) transportlīdzekļiem ceļu satiksmes negadījuma, avārijas u. tml. iemeslu dēļ;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "259.34",
+                "text": "259.34. 334. zīme \"Transportlīdzekļiem ar bīstamu kravu braukt aizliegts\".",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "260",
+        "text": "260. Ja 328. un 329. zīme attiecīgi uzstādīta vienā un otrā ceļa pusē, tad laikposmā no plkst. 21.00 līdz 24.00 transportlīdzekļi, kam nākamajā dienā būs aizliegts stāvēt attiecīgajā ceļa pusē, jāpārvieto uz ceļa otru pusi.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "261",
+        "text": "261. 301., 302., 303., 315., 316. un 317. zīmes darbība neattiecas uz pasažieru sabiedriskajiem transportlīdzekļiem.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "262",
+        "text": "262. 302., 303., 304., 306., 307. un 308. zīmes darbība neattiecas uz transportlīdzekļiem, kuri nogādā vai brauc saņemt kravu, un speciālajiem transportlīdzekļiem (piemēram, autoceltņiem), kas brauc veikt darbus zonā, kas apzīmēta ar kādu no šīm ceļa zīmēm. 302. un 303. zīmes darbība neattiecas arī uz velosipēdiem, elektroskrejriteņiem, mopēdiem, motocikliem, tricikliem un kvadricikliem, vieglajiem automobiļiem un kravas automobiļiem, kuru pilna masa nepārsniedz 3,5 t un kuru īpašnieks (turētājs) dzīvo vai strādā šajā zonā, un uz taksometriem, kuri brauc pēc pasažiera vai ar pasažieri, bet 304. un 305. zīmes darbība neattiecas arī uz to transportlīdzekļu īpašniekiem (turētājiem), kuri šajā zonā dzīvo vai strādā. 306. zīmes darbība neattiecas arī uz transportlīdzekļiem, ar kuriem normatīvajos aktos noteiktajā kārtībā notiek vadīšanas iemaņu pārbaude.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "263",
+        "text": "263. 302., 303. un 327. zīmes darbība neattiecas uz automobiļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "264",
+        "text": "264. 312. un 313. zīmes darbība neattiecas uz transportlīdzekļiem, kuriem, izvērtējot sabiedrisko drošību un bīstamību, lai veiktu speciālus pārvadājumus (piemēram, pārvadātu dzīvnieku izcelsmes blakusproduktus un atvasinātus produktus, kas nav paredzēti cilvēka patēriņam), izsniegta valsts sabiedrības ar ierobežotu atbildību \"Latvijas Valsts ceļi\" atļauja.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "265",
+        "text": "265. 315. un 316. zīmes darbība attiecas uz brauktuvju krustošanās vietu, pirms kuras zīme uzstādīta.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "266",
+        "text": "266. 326. zīmes darbības zonā atļauta:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "266.1",
+                "text": "266.1. pasažieru iekāpšana taksometros – vieglajos automobiļos – vai izkāpšana no tiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "266.2",
+                "text": "266.2. taksometru – vieglo automobiļu – ar ieslēgtu skaitītāju apstāšanās, taksometra vadītājam paliekot transportlīdzeklī;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "266.3",
+                "text": "266.3. personu ar invaliditāti iekāpšana transportlīdzekļos, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti, vai izkāpšana no tiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "266.4",
+                "text": "266.4. pasažieru iekāpšana un izkāpšana pasažieru sabiedriskajos trans­portlīdzekļos to pieturās;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "266.5",
+                "text": "266.5. taksometru – vieglo automobiļu – stāvēšana ar 543. zīmi apzīmētā stāvvietā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "266.6",
+                "text": "266.6. dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēka patēriņam, iekraušana transportlīdzekļos.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "267",
+        "text": "267. Pašvaldības ar attiecīgu lēmumu ir tiesīgas noteikt laikposmu, kad transportlīdzekļos drīkst iekraut vai izkraut kravu 326., 327., 328. un 329. zīmes darbības zonā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "268",
+        "text": "268. 309., 326., 327., 328. un 329. zīmes darbība attiecas tikai uz to brauktuves pusi, kurā tā uzstādīta.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "269",
+        "text": "269. 318., 319., 321., 323., 325., 326., 327., 328. un 329. zīmes darbība ir spēkā no tās uzstādīšanas vietas līdz tuvākajam krustojumam aiz zīmes, bet, ja krustojuma nav, – līdz 520. vai 556. zīmei. Ja 323. zīme uzstādīta pirms apdzīvotas vietas, minētās zīmes darbība ir spēkā no tās uzstādīšanas vietas līdz 519. vai 555. zīmei. Zīmju darbības zona nebeidzas vietās, kur uz ceļa izbrauc no blakusteritorijas (pagalma, stāvvietas, degvielas uzpildes stacijas, uzņēmuma u. tml.), un vietās, kur ceļu šķērso vai no tā atzarojas lauku ceļš, meža ceļš vai cits tamlīdzīgs ceļš, pirms kura nav uzstādītas attiecīgas priekšrocības zīmes, kā arī krustojumos, kuriem nav tieša pieslēguma attiecīgajai brauktuvei.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "270",
+        "text": "270. Zīmju darbības zonu var samazināt:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "270.1",
+                "text": "270.1. 318., 319., 321., 323., 325., 326., 327., 328. un 329. zīmei – uzstādot 330. vai 803. zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "270.2",
+                "text": "270.2. 319., 321. un 323. zīmei – uzstādot attiecīgi 320., 322. vai 324. zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "270.3",
+                "text": "270.3. 323. zīmei – uzstādot 323. zīmi ar citu maksimālā braukšanas ātruma ierobežojumu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "270.4",
+                "text": "270.4. 326., 327., 328. un 329. zīmei – darbības zonā atkārtoti uzstādot 326., 327., 328. vai 329. zīmi kopā ar 810. zīmi. 326. zīmi var lietot kopā ar 943. ceļa apzīmējumu, bet 327. zīmi – ar 944. ceļa apzīmējumu. Šādos gadījumos zīmju darbības zonu nosaka ceļa apzīmējuma līnijas garums. 326., 327., 328. un 329. zīmes darbības zona beidzas vietā, kur sākas uz brauktuves vai daļēji uz tās ierīkota un ar 529., 537. vai 539. zīmi apzīmēta stāvvieta.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "271",
+        "text": "271. Rīkojuma zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "271.1",
+                "text": "271.1. 401. zīme \"Braukt taisni\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.2",
+                "text": "271.2. 402. zīme \"Braukt pa labi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.3",
+                "text": "271.3. 403. zīme \"Braukt pa kreisi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.4",
+                "text": "271.4. 404. zīme \"Braukt taisni vai pa labi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.5",
+                "text": "271.5. 405. zīme \"Braukt taisni vai pa kreisi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.6",
+                "text": "271.6. 406. zīme \"Braukt pa labi vai pa kreisi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.7",
+                "text": "271.7. 407. zīme \"Braukt pa labi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.8",
+                "text": "271.8. 408. zīme \"Braukt pa kreisi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.9",
+                "text": "271.9. 409. zīme \"Braukt pa loku\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.10",
+                "text": "271.10. 410. zīme \"Šķērsli apbraukt pa labo pusi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.11",
+                "text": "271.11. 411. zīme \"Šķērsli apbraukt pa kreiso pusi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.12",
+                "text": "271.12. 412. zīme \"Šķērsli apbraukt pa labo vai pa kreiso pusi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.13",
+                "text": "271.13. 413. zīme \"Velosipēdu ceļš\". Atļauts braukt tikai ar velosipēdiem un elektroskrejriteņiem, kā arī, ja zīme netiek lietota, lai apzīmētu velojoslu, atļauts pārvietoties gājējiem, izmantojot šo noteikumu 8. punktā minēto sporta vai atpūtas inventāru, ja netiek traucēta velosipēdu un elektroskrejriteņu braukšana;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.14",
+                "text": "271.14. 414. zīme \"Velosipēdu ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.15",
+                "text": "271.15. 415. zīme \"Gājēju ceļš\". Atļauts pārvietoties tikai gājējiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.16",
+                "text": "271.16. 416. zīme \"Gājēju ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.17",
+                "text": "271.17. 417. zīme \"Kopīgs gājēju un velosipēdu ceļš\". Atļauts braukt tikai ar velosipēdiem un elektroskrejriteņiem, kā arī pārvietoties gājējiem. Velosipēdu un elektroskrejriteņu vadītājiem un gājējiem jārīkojas tā, lai tie savstarpēji viens otru neapdraudētu un netraucētu. Gājējiem jāņem vērā velosipēdu un elektroskrejriteņu klātbūtne uz šā ceļa, bet velosipēdu un elektroskrejriteņu vadītājiem, ja nepieciešams, jābrauc ar ātrumu, kas nepārsniedz gājēju pārvietošanās ātrumu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.18",
+                "text": "271.18. 418. zīme \"Kopīga gājēju un velosipēdu ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.19",
+                "text": "271.19. 419. un 421. zīme \"Gājēju un velosipēdu ceļš\". Pa gājēju un velosipēdu ceļa vienu pusi atļauts braukt tikai ar velosipēdiem un elektroskrejriteņiem, bet pa otru pusi – pārvietoties gājējiem (atbilstoši zīmē norādītajam);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.20",
+                "text": "271.20. 420. un 422. zīme \"Gājēju un velosipēdu ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.21",
+                "text": "271.21. 423. zīme \"Minimālā ātruma ierobežojums\". Atļauts braukt ar ātrumu (km/h), kas nav mazāks par zīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.22",
+                "text": "271.22. 424. zīme \"Minimālā ātruma ierobežojuma beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.23",
+                "text": "271.23. 425. zīme \"Transportlīdzekļiem ar bīstamu kravu braukt taisni\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.24",
+                "text": "271.24. 426. zīme \"Transportlīdzekļiem ar bīstamu kravu braukt pa labi\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "271.25",
+                "text": "271.25. 427. zīme \"Transportlīdzekļiem ar bīstamu kravu braukt pa kreisi\".",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "272",
+        "text": "272. 401., 402., 403., 404., 405., 406., 407., 408. un 409. zīme norāda, ka atļauts braukt tikai zīmē norādītajos virzienos. Zīmes, kas atļauj nogriezties pa kreisi, atļauj arī apgriezties braukšanai pretējā virzienā (var tikt lietota 401., 402., 403., 404., 405., 406., 407. un 408. zīme ar bultu konfigurāciju, kas atbilst noteiktajiem braukšanas virzieniem krustojumā).",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "273",
+        "text": "273. 401., 402., 403., 404., 405. un 406. zīmes darbība neattiecas uz pasažieru sabiedriskajiem transportlīdzekļiem. 401., 402., 403., 404., 405., 406., 425., 426. un 427. zīmes darbība attiecas uz brauktuvju krustošanās vietu, pirms kuras zīme uzstādīta.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "274",
+        "text": "274. Ja 401. zīme uzstādīta ceļa posma sākumā, tās darbības zona ir spēkā līdz tuvākajam krustojumam aiz zīmes vai līdz apdzīvotās vietas beigām. Zīme neaizliedz nogriezties pa labi, lai iebrauktu pagalmos un citās blakusteritorijās.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "275",
+        "text": "275. 407. un 408. zīme norāda, ka jānogriežas pirms šīs zīmes.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "276",
+        "text": "276. Norādījuma zīmes ievieš vai atceļ noteiktu ceļu satiksmes režīmu. Norādījuma zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "276.1",
+                "text": "276.1. 501. zīme \"Vienvirziena ceļš\". Ceļš vai brauktuve, pa kuru visā platumā atļauts braukt transportlīdzekļiem vienā virzienā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.2",
+                "text": "276.2. 502. zīme \"Vienvirziena ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.3",
+                "text": "276.3. 503. un 504. zīme \"Izbraukšana uz vienvirziena ceļa\". Izbraukšana uz ceļa vai brauktuves, pa kuru atļauts braukt vienā – zīmē norādītajā – virzienā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.4",
+                "text": "276.4. 505. zīme \"Josla pasažieru sabiedriskajiem transportlīdzekļiem\". Josla, kas paredzēta tikai pasažieru sabiedriskajiem transportlīdzekļiem, takso­metriem un elektromobiļiem, kuri brauc vienā virzienā ar pārējo transportlīdzekļu plūsmu, bet, ja šī zīme uzstādīta kopā ar 824. papildzīmi, – arī velosipēdiem un elektroskrejriteņiem. Zīmes darbība attiecas uz joslu, virs kuras zīme uzstādīta. Ja zīme uzstādīta ceļa labajā pusē, tās darbība attiecas uz labo braukšanas joslu. Zīmes darbība ir spēkā no tās uzstādīšanas vietas līdz tuvākajam krustojumam aiz zīmes, bet, ja krustojuma nav, – līdz 506. zīmei;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.5",
+                "text": "276.5. 506. zīme \"Joslas pasažieru sabiedriskajiem transportlīdzekļiem beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.6",
+                "text": "276.6. 507. zīme \"Ceļš ar joslu pasažieru sabiedriskajiem transport­līdzekļiem\". Ceļš, pa kuru pasažieru sabiedrisko transportlīdzekļu, taksometru un elektromobiļu, bet, ja šī zīme uzstādīta kopā ar 824. papildzīmi, – arī velosipēdu un elektroskrejriteņu, satiksme notiek pa atsevišķu joslu pretim pārējo transportlīdzekļu plūsmai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.7",
+                "text": "276.7. 508. zīme \"Ceļa ar joslu pasažieru sabiedriskajiem transport­līdzekļiem beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.8",
+                "text": "276.8. 509. un 510. zīme \"Izbraukšana uz ceļa ar joslu pasažieru sabied­riskajiem transportlīdzekļiem\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.9",
+                "text": "276.9. 511. zīme \"Minimālā braukšanas ātruma ierobežojums joslās\". Joslu skaits un minimālā braukšanas ātruma ierobežojums katrā joslā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.10",
+                "text": "276.10. 512. zīme \"Maksimālā braukšanas ātruma ierobežojums joslās\". Joslu skaits un maksimālā braukšanas ātruma ierobežojums katrā joslā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.11",
+                "text": "276.11. 513. zīme \"Braukšanas virzieni joslās\". Joslu skaits un no tām noteiktie braukšanas virzieni krustojumā. Uz 513. zīmes var būt norādīta informācija par ceļu satiksmes ierobežojumiem krustojumā. 513. zīme, kas atļauj nogriezties pa kreisi no kreisās malējās braukšanas joslas, atļauj no šīs joslas apgriezties arī braukšanai pretējā virzienā. 513. zīmes darbība attiecas uz visu krustojumu, pirms kura zīme uzstādīta, ja cita 513., 514., 515., 516., 517. vai 518. zīme, kas uzstādīta krustojumā, nedod citus norādījumus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.12",
+                "text": "276.12. 514., 515. un 516. zīme \"Braukšanas virziens joslā\". No joslas noteiktais braukšanas virziens krustojumā. Uz 514., 515. un 516. zīmes var būt norādīta informācija par ceļu satiksmes ierobežojumiem krustojumā. 516. zīme atļauj nogriezties pa kreisi no kreisās malējās braukšanas joslas un atļauj no šīs joslas apgriezties arī braukšanai pretējā virzienā (var tikt lietota 514., 515. un 516. zīme ar bultu konfigurāciju, kas atbilst noteiktajiem braukšanas virzieniem krustojumā). 514., 515. un 516. zīmes darbība attiecas uz visu krustojumu, pirms kura zīme uzstādīta, ja cita 513., 514., 515., 516., 517. vai 518. zīme, kas uzstādīta krustojumā, nedod citus norādījumus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.13",
+                "text": "276.13. 517. un 518. zīme \"Braukšanas virzieni joslā\". No joslas noteiktie braukšanas virzieni krustojumā. Uz 517. un 518. zīmes var būt norādīta informācija par ceļu satiksmes ierobežojumiem krustojumā. 518. zīme, kas atļauj nogriezties pa kreisi no kreisās malējās braukšanas joslas, atļauj no šīs joslas apgriezties arī braukšanai pretējā virzienā (var tikt lietota 517. un 518. zīme ar bultu konfigurāciju, kas atbilst noteiktajiem braukšanas virzieniem krustojumā). 517. un 518. zīmes darbība attiecas uz visu krustojumu, pirms kura zīme uzstādīta, ja cita 513., 514., 515., 516., 517. vai 518. zīme, kas uzstādīta krustojumā, nedod citus norādījumus;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.14",
+                "text": "276.14. 519. zīme \"Apdzīvotas vietas sākums\". Vieta pilsētā vai ciemā, no kuras ir spēkā šo noteikumu prasības, kas nosaka ceļu satiksmes kārtību apdzīvotās vietās;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.15",
+                "text": "276.15. 520. zīme \"Apdzīvotas vietas beigas\". Ar 519. zīmi apzīmētās apdzīvotās vietas beigas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.16",
+                "text": "276.16. 521. zīme \"Pilsētas vai ciema nosaukums\". Zīme norāda pilsētas vai ciema robežu (sākumu);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.17",
+                "text": "276.17. 522. zīme \"Pilsētas vai ciema nosaukums\". Zīme norāda pilsētas vai ciema robežu (beigas);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.18",
+                "text": "276.18. 523. zīme \"Stāvēšanas aizlieguma zona\". Stāvēt aizliegts uz visiem ceļiem teritorijā, kurā iebraukšana apzīmēta ar 523. zīmi. Zīmes darbība neattiecas uz automobiļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.19",
+                "text": "276.19. 524. zīme \"Stāvēšanas aizlieguma zonas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.20",
+                "text": "276.20. 525. zīme \"Maksimālā ātruma ierobežojuma zona\". Maksimālā ātruma ierobežojums uz visiem ceļiem teritorijā, kurā iebraukšana apzīmēta ar 525. zīmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.21",
+                "text": "276.21. 526. zīme \"Maksimālā ātruma ierobežojuma zonas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.22",
+                "text": "276.22. 527. zīme \"Gājēju ceļu zona\". Gājēju ceļi – atļauts pārvietoties tikai gājējiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.23",
+                "text": "276.23. 528. zīme \"Gājēju ceļu zonas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.24",
+                "text": "276.24. 529. zīme \"Stāvvietu zona\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.25",
+                "text": "276.25. 530. zīme \"Stāvvietu zonas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.26",
+                "text": "276.26. 531. zīme \"Ieteicamā ātruma zona\". Zona, kurā ieteicams braukt ar zīmē norādīto ātrumu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.27",
+                "text": "276.27. 532. zīme \"Ieteicamā ātruma zonas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.28",
+                "text": "276.28. 533. zīme \"Dzīvojamā zona\". Vieta, no kuras sākot ir spēkā šo noteikumu prasības, kas nosaka ceļu satiksmes kārtību dzīvojamās zonās;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.29",
+                "text": "276.29. 534. zīme \"Dzīvojamās zonas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.30",
+                "text": "276.30. 535. zīme \"Gājēju pāreja\". Zīmi uzstāda ceļa labajā pusē uz pārejas tuvākās robežas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.31",
+                "text": "276.31. 536. zīme \"Gājēju pāreja\". Zīmi uzstāda ceļa kreisajā pusē uz pārejas tālākās robežas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.32",
+                "text": "276.32. 537. zīme \"Stāvvieta\". Zīmes darbība ir spēkā no tās uzstādīšanas vietas līdz tuvākajam krustojumam aiz zīmes, bet, ja krustojuma nav, – līdz 538., 520., 556., 326., 327., 328. vai 329. zīmei. Zīmes apakšdaļā var tikt norādīts virziens, kādā jābrauc uz stāvvietu, kas atrodas ceļa tiešā tuvumā. Ēkas jumta simbols apzīmē pazemes vai virszemes daudzstāvu stāvvietu. Stāvvietā nav spēkā šo noteikumu 121.6. un 122.1. apakšpunktā minētie aizliegumi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.33",
+                "text": "276.33. 538. zīme \"Stāvvietas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.34",
+                "text": "276.34. 539. zīme \"Maksas stāvvieta\". Zīmes darbība ir spēkā no tās uzstādīšanas vietas līdz tuvākajam krustojumam aiz zīmes, bet, ja krustojuma nav, – līdz 540., 520., 556., 326., 327., 328. vai 329. zīmei. Uz zīmes var būt norādīts stāvēšanas maksimālais ilgums, par kuru tūlīt var samaksāt. Zīmes apakšdaļā var tikt norādīts virziens, kādā jābrauc uz stāvvietu, kas atrodas ceļa tiešā tuvumā. Stāvvietā nav spēkā šo noteikumu 121.6. un 122.1. apakšpunktā minētie aizliegumi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.35",
+                "text": "276.35. 540. zīme \"Maksas stāvvietas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.36",
+                "text": "276.36. 541. zīme \"Autobusa un trolejbusa pietura\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.37",
+                "text": "276.37. 542. zīme \"Tramvaja pietura\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.38",
+                "text": "276.38. 543. zīme \"Vieglo taksometru stāvvieta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.39",
+                "text": "276.39. 544. zīme \"Tunelis\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.40",
+                "text": "276.40. 545. zīme \"Tuneļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.41",
+                "text": "276.41. 546. zīme \"Apstāšanās vieta\". Vieta, kur jāaptur transportlīdzeklis, ja braukšanu aizliedz luksofora vai satiksmes regulētāja signāls;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.42",
+                "text": "276.42. 547. zīme \"Pierobežas sākums\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.43",
+                "text": "276.43. 548. zīme \"Pierobežas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.44",
+                "text": "276.44. 549. zīme \"Pierobežas joslas sākums\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.45",
+                "text": "276.45. 550. zīme \"Pierobežas joslas beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.46",
+                "text": "276.46. 551. zīme \"Robežšķērsošanas vieta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.47",
+                "text": "276.47. 552. zīme \"Ātrgaitas ceļš\". Izbraukšana uz ceļa, pa kuru atļauts braukt tikai ar motocikliem, tricikliem, kvadricikliem, automobiļiem un autobusiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.48",
+                "text": "276.48. 553. zīme \"Ātrgaitas ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.49",
+                "text": "276.49. 554. zīme \"Piespiedu apstāšanās vieta\". Norāda vietu tunelī, uz ātrgaitas ceļa, kas paredzēta transportlīdzekļa novietošanai piespiedu apstāšanās gadījumā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.50",
+                "text": "276.50. 555. zīme \"Apdzīvotas vietas sākums\". Vieta pilsētā vai ciemā, no kuras ir spēkā šo noteikumu prasības, kas nosaka ceļu satiksmes kārtību apdzīvotās vietās;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "276.51",
+                "text": "276.51. 556. zīme \"Apdzīvotas vietas beigas\". Ar 555. zīmi apzīmētās apdzīvotās vietas beigas.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "277",
+        "text": "277. 543. zīmes apakšdaļā ar ciparu var tikt norādīts taksometru skaits, kādam vienlaikus atļauts atrasties stāvvietā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "278",
+        "text": "278. 547. un 549. zīme norāda vietu, no kuras sākot stājas spēkā noteikumi, kas nosaka pierobežas un pierobežas joslas režīmu.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "279",
+        "text": "279. Pašvaldības ar attiecīgu lēmumu ir tiesīgas noteikt laikposmu, kad transportlīdzekļos drīkst iekraut vai izkraut kravu ar 523. zīmi apzīmētajā teritorijā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "280",
+        "text": "280. Servisa zīmes informē par attiecīgo objektu atrašanās vietu. Servisa zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "280.1",
+                "text": "280.1. 601. zīme \"Medicīniskās palīdzības punkts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.2",
+                "text": "280.2. 602. zīme \"Slimnīca\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.3",
+                "text": "280.3. 603. zīme \"Degvielas uzpildes stacija\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.4",
+                "text": "280.4. 604. zīme \"Stāvparks\". Norāda stāvvietu, kas atrodas tiešā sabiedriskā transporta pieturas tuvumā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.5",
+                "text": "280.5. 605. zīme \"Tehniskās apkopes punkts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.6",
+                "text": "280.6. 606. zīme \"Automobiļu mazgātava\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.7",
+                "text": "280.7. 607. zīme \"Telefons\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.8",
+                "text": "280.8. 608. zīme \"Restorāns\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.9",
+                "text": "280.9. 609. zīme \"Kafejnīca\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.10",
+                "text": "280.10. 610. zīme \"Viesnīca, motelis vai viesu māja\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.11",
+                "text": "280.11. 611. zīme \"Jaunatnes tūrisma mītne\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.12",
+                "text": "280.12. 612. zīme \"Kempings\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.13",
+                "text": "280.13. 613. zīme \"Kempingpiekabju stāvvieta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.14",
+                "text": "280.14. 614. zīme \"Kempings un kempingpiekabju stāvvieta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.15",
+                "text": "280.15. 615. zīme \"Atpūtas vieta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.16",
+                "text": "280.16. 616. zīme \"Gājēju maršruts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.17",
+                "text": "280.17. 617. zīme \"Tualete\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.18",
+                "text": "280.18. 618. zīme \"Peldvieta vai peldbaseins\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.19",
+                "text": "280.19. 619. zīme \"Tūrisma informācija\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.20",
+                "text": "280.20. 620. zīme \"Policija\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.21",
+                "text": "280.21. 621. zīme \"Ceļu policija\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.22",
+                "text": "280.22. 622. zīme \"Pasts\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.23",
+                "text": "280.23. 623. zīme \"Radiokanāls ceļu satiksmes informācijas sniegšanai\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.24",
+                "text": "280.24. 624. zīme \"Lidosta (lidlauks)\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.25",
+                "text": "280.25. 625. zīme \"Autoosta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.26",
+                "text": "280.26. 626. zīme \"Dzelzceļa stacija\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.27",
+                "text": "280.27. 627. zīme \"Jūras pasažieru stacija\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.28",
+                "text": "280.28. 628. zīme \"Prāmis\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.29",
+                "text": "280.29. 629. zīme \"Kravas osta\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.30",
+                "text": "280.30. 630. zīme \"Informācijas bloks\". Zīme norāda, ka vairāki zīmē attēlotie objekti atrodas vienuviet;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.31",
+                "text": "280.31. 631. zīme \"Ievērojama vieta\". Norāda vietu, kur pie ceļa atrodas tūrisma objekts;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.32",
+                "text": "280.32. 632. zīme \"Ugunsdzēšamais aparāts\". Norāda vietu tunelī, kur atrodas ugunsdzēšamais aparāts;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.33",
+                "text": "280.33. 633. zīme \"Avārijas tālrunis\". Norāda vietu tunelī, uz ātrgaitas ceļa, kur atrodas tālrunis, pa kuru var izsaukt glābšanas dienestu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "280.34",
+                "text": "280.34. 634. zīme \"Lauku tūrisma mītne\".",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "281",
+        "text": "281. Ar 613. vai 614. zīmi apzīmētajās vietās var novietot arī automo­biļus – vasarnīcas.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "282",
+        "text": "282. Servisa zīmju apakšdaļā var būt norādīti attālumi un virzieni no zīmes uzstādīšanas vietas līdz attiecīgajam objektam, kā arī attiecīgo objektu nosaukumi.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "283",
+        "text": "283. Virzienu rādītāji un informācijas zīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "283.1",
+                "text": "283.1. 701. un 702. zīme \"Iepriekšējs virzienu rādītājs\". Uz zīmes norādīti braukšanas virzieni uz apdzīvotām vietām un citiem objektiem. Uz 701. un 702. zīmes var būt attēloti simboli, piktogrammas un citas zīmes, kas informē par ceļu satiksmes īpatnībām. Zīmes apakšdaļā norādīts attālums no zīmes uzstādīšanas vietas līdz krustojumam vai bremzēšanas joslas sākumam;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.2",
+                "text": "283.2. 703. zīme \"Virzienu rādītājs\". Braukšanas virzieni un attālumi (km) līdz apdzīvotām vietām un citiem objektiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.3",
+                "text": "283.3. 704. un 705. zīme \"Virziena rādītājs\". Braukšanas virziens un attālums (km) līdz apdzīvotai vietai vai citam objektam;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.4",
+                "text": "283.4. 706. zīme \"Virziena rādītājs\". Braukšanas virziens un attālums (km) līdz tūrisma objektam (zīme ar brūnu fonu) vai braukšanas virziens uz viensētu (zīme ar pelēku fonu);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.5",
+                "text": "283.5. 707. zīme \"Attālumu rādītājs\". Attālumi (km) līdz maršrutā esošo apdzīvoto vietu centriem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.6",
+                "text": "283.6. 708. zīme \"Ūdensšķēršļa nosaukums\". Tās upes, kanāla, ezera u. tml. ūdensšķēršļa nosaukums, kuru šķērso ceļš;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.7",
+                "text": "283.7. 709. zīme \"Braukšanas shēma\". Braukšanas maršruts, ja krustojumā aizliegti atsevišķi manevri vai atļautie braukšanas virzieni sarežģītā krustojumā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.8",
+                "text": "283.8. 710. zīme \"Šķēršļa apbraukšanas virziens\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.9",
+                "text": "283.9. 711. zīme \"Strupceļš\". Ceļš, pa kuru nav iespējams caurbraukt;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.10",
+                "text": "283.10. 712. un 713. zīme \"Iepriekšējs virziena rādītājs strupceļam\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.11",
+                "text": "283.11. 714. un 715. zīme \"Joslas sākums\". Bremzēšanas, augšupceļa u. tml. joslas sākums;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.12",
+                "text": "283.12. 716. un 717. zīme \"Joslas beigas\". Ieskrējiena, augšupceļa u. tml. joslas beigas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.13",
+                "text": "283.13. 718., 719. un 720. zīme \"Braukšanas virzieni joslās\". Joslu skaits katrā virzienā ceļa posmā un braukšanas virzieni katrā joslā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.14",
+                "text": "283.14. 721. un 722. zīme \"Joslas piekļaušanās pamatjoslām\". Vienas vai vairāku joslu piekļaušanās pamatjoslām ceļa pārvadu tuvumā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.15",
+                "text": "283.15. 723. zīme \"Apgriešanās vieta\". Ceļa posmā starp krustojumiem norāda vietu vai pārtraukumu sadalošajā joslā, kur atļauta apgriešanās braukšanai pretējā virzienā. Nogriezties pa kreisi aizliegts;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.16",
+                "text": "283.16. 724. zīme \"Satiksmes ierobežojumi Latvijā\". Informē Latvijā iebraucošos transportlīdzekļu vadītājus par braukšanas ātruma vispārējiem ierobežojumiem un dienas gaitas vai tuvās gaismas lukturu lietošanu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.17",
+                "text": "283.17. 725. zīme \"Ieteicamais ātrums\". Ātrums, ar kādu ieteicams braukt turpmākajā ceļa posmā. Zīme ir spēkā līdz tuvākajam krustojumam aiz zīmes, bet, ja 725. zīme lietota kopā ar brīdinājuma zīmi, tās darbības zonu nosaka bīstamā posma garums;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.18",
+                "text": "283.18. 726., 727. un 728. zīme \"Kravas automobiļu braukšanas virziens\". Ieteicamais braukšanas virziens kravas automobiļiem, to sastāviem un traktor­tehnikai, ja krustojumā tiem aizliegts braukt vienā no iespējamiem virzieniem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.19",
+                "text": "283.19. 729. zīme \"Gājēju apakšzemes vai virszemes pāreja\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.20",
+                "text": "283.20. 730. zīme \"Apbraukšanas ceļa shēma\". Uz laiku ceļu satiksmei slēgta ceļa posma apbraukšanas maršruts;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.21",
+                "text": "283.21. 731., 732. un 733. zīme \"Apbraukšanas ceļa virziens\". Apbrauk­šanas virziens ceļa posmam, kurā ceļu satiksme uz laiku slēgta vai ierobežota;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.22",
+                "text": "283.22. 734. zīme \"Apbraukšanas ceļa beigas\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.23",
+                "text": "283.23. 735., 736., 737. un 738. zīme \"Iepriekšējs norādītājs pārkārtoties\". Uz laiku ceļu satiksmei slēgta brauktuves posma vai braukšanas joslas apbraukšanas virziens;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.24",
+                "text": "283.24. 739. zīme \"Kilometru rādītājs\". Attālums (km) no ceļa sākuma;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.25",
+                "text": "283.25. 740. zīme \"Ceļa numurs\". Zīme ar zaļu fonu un numurs, kas piešķirts attiecīgajam Eiropas autoceļu (maģistrāļu) sistēmas ceļam (maršrutam);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.26",
+                "text": "283.26. 741. zīme \"Ceļa numurs\". Zīme ar sarkanu fonu un numurs, kas piešķirts attiecīgajam Latvijas galvenajam valsts autoceļam;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.27",
+                "text": "283.27. 742. zīme \"Ceļa numurs\". Zīme ar zilu fonu un numurs, kas piešķirts attiecīgajam Latvijas reģionālajam valsts autoceļam;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.28",
+                "text": "283.28. 743., 744. un 745. zīme \"Ceļa numurs un virziens\". Zīmes fons norāda ceļa piederību pie attiecīgas šķiras autoceļa;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.29",
+                "text": "283.29. 746. zīme \"Maiņvirziena satiksme\". Tāda ceļa posma sākums, uz kura vienā vai vairākās joslās ceļu satiksmes virziens var mainīties uz pretējo;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.30",
+                "text": "283.30. 747. zīme \"Maiņvirziena satiksmes beigas\". Tāda ceļa posma beigas, uz kura vienā vai vairākās joslās ceļu satiksmes virziens var mainīties uz pretējo;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.31",
+                "text": "283.31. 748. zīme \"Izbraukšana uz ceļa, kur organizēta maiņvirziena satiksme\". Izbraukšana uz ceļa, uz kura vienā vai vairākās joslās ceļu satiksmes virziens var mainīties uz pretējo;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.32",
+                "text": "283.32. 749. zīme \"Valsts nosaukums\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.33",
+                "text": "283.33. 750. zīme \"Administratīvās teritorijas nosaukums\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.34",
+                "text": "283.34. 751. zīme \"Tūrisma objektu teritorija\". Iebraukšana teritorijā, kur atrodas daudzi savstarpēji tuvu esoši tūrisma objekti;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.35",
+                "text": "283.35. 752. zīme \"Avārijas izeja\". Norāda vietu tunelī, kur atrodas avārijas izeja;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "283.36",
+                "text": "283.36. 753. zīme \"Avārijas izejas virziens\". Norāda virzienu tunelī, kādā jādodas uz avārijas izeju, kā arī attālumu līdz tai.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "284",
+        "text": "284. 701., 702., 703., 704. un 705. zīmes (ja tā uzstādīta apdzīvotā vietā) zilais fons nozīmē, ka norādītais objekts atrodas ārpus attiecīgās apdzīvotās vietas, bet baltais fons –, ka norādītais objekts atrodas attiecīgajā apdzīvotajā vietā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "285",
+        "text": "285. Papildzīmes tiek lietotas kopā ar citām zīmēm un precizē vai ierobežo attiecīgo zīmju darbību. Papildzīmes ir šādas:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "285.1",
+                "text": "285.1. 801. papildzīme \"Attālums līdz objektam\". Norāda attālumu no zīmes līdz ceļa bīstamā posma sākumam vai attiecīgā ceļu satiksmes ierobežo­juma ieviešanas vietai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.2",
+                "text": "285.2. 802. papildzīme \"Attālums līdz objektam\". Norāda attālumu no 206. zīmes līdz krustojumam, ja tieši pirms krustojuma uzstādīta 207. zīme;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.3",
+                "text": "285.3.  803. papildzīme \"Darbības zona\". Norāda garumu ceļa bīstamajam posmam, kas apzīmēts ar brīdinājuma zīmēm, vai aizlieguma zīmes darbības zonu, tostarp krustojumā, kā arī 537., 539. un 725. zīmes darbības zonu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.4",
+                "text": "285.4. 804.–808. papildzīme \"Darbības zona\". Norāda 326., 327., 328., 329., 537. un 539. zīmes darbības virzienu un zonu. Ar 804. un 808. papildzīmi norāda arī attālumu līdz objektam, kas ir apzīmēts ar 537. vai 539. zīmi, bet ar 805.–807. papildzīmi – 537. un 539. zīmes darbības zonu, ja tās ir uzstādītas paralēli stāvvietas malai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.5",
+                "text": "285.5. 809. papildzīme \"Darbības zona\". Informē transportlīdzekļa vadītāju, ka viņš atrodas 326., 327., 328. vai 329. zīmes darbības zonā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.6",
+                "text": "285.6. 810. papildzīme \"Darbības zona\". Norāda 326., 327., 328. un 329. zīmes darbības zonas beigas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.7",
+                "text": "285.7. 811., 812. un 813. papildzīme \"Darbības zona\". Norāda pamatzīmes darbības virzienu uz kādu no ceļa daļām;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.8",
+                "text": "285.8. 814. papildzīme \"Darbības virziens\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.9",
+                "text": "285.9. 815. papildzīme \"Darbības virzieni\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.10",
+                "text": "285.10. 816. papildzīme \"Darbības virziens\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.11",
+                "text": "285.11. 817. papildzīme \"Braukšanas josla\". Norāda braukšanas joslu vai tramvaja sliežu ceļa klātni, uz kuru attiecas zīmes darbība. Ja 817. papildzīme uzstādīta kopā ar aizlieguma zīmi, noteiktais aizliegums ir spēkā līdz tuvākajam krustojumam aiz zīmes;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.12",
+                "text": "285.12. 818.–824. papildzīme \"Transportlīdzekļa veids\". Norāda trans­portlīdzekļa veidu, uz kuru attiecas zīmes darbība. 818. papildzīme attiecas uz kravas automobiļiem (arī uz kravas automobiļiem ar piekabēm (puspiekabēm)), kuru pilna masa pārsniedz 3,5 t. 820. papildzīme attiecas uz vieglajiem automo­biļiem (arī uz vieglajiem automobiļiem ar piekabēm), kā arī uz kravas automobiļiem, kuru pilna masa nepārsniedz 3,5 t. 823. papildzīme attiecas uz mopēdiem, motocikliem, tricikliem un kvadricikliem. 824. papildzīme attiecas uz velosipēdiem un elektroskrejriteņiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.13",
+                "text": "285.13. 825. papildzīme \"Darbdienās\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.14",
+                "text": "285.14. 826. papildzīme \"Sestdienās, svētdienās un svētku dienās\";",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.15",
+                "text": "285.15. 827. papildzīme \"Darbības laiks\". Norāda diennakts laiku, kurā zīme darbojas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.16",
+                "text": "285.16. 828. un 829. papildzīme \"Darbības laiks\". Norāda dienas un diennakts laiku, kurā zīme darbojas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.17",
+                "text": "285.17. 830.–839. papildzīme \"Transportlīdzekļa novietojuma veids stāvvietā\". 832.–839. papildzīme norāda vieglo automobiļu bez piekabēm, motociklu, triciklu un kvadriciklu novietojuma veidu stāvvietā pie ietves vai uzbraucot uz tās, bet 830. un 831. papildzīme – arī vieglo automobiļu ar piekabēm novietojuma veidu stāvvietā pie ietves vai uzbraucot uz tās;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.18",
+                "text": "285.18. 840. papildzīme \"Stāvēšanas laiks\". Šo papildzīmi lieto kopā ar 529. un 537. zīmi. Vadītājam, kurš novietojis automobili ar šīm zīmēm apzīmētajā stāvvietā, automobiļa salonā pie priekšējā stikla jānovieto informācija par laiku, kad transportlīdzeklis novietots stāvvietā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.19",
+                "text": "285.19. 841. papildzīme \"Automobiļu apskates vieta\". Norāda, ka ir ierīkota estakāde vai remontbedre automobiļu apskatei;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.20",
+                "text": "285.20. 842. papildzīme \"Pilnas masas ierobežojums\". Norāda, ka zīme attiecas tikai uz transportlīdzekļiem, kuru pilna masa ir lielāka par papildzīmē norādīto;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.21",
+                "text": "285.21. 843. papildzīme \"Neredzīgi gājēji\". Norāda, ka gājēju pāreju izmanto arī neredzīgi gājēji;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.22",
+                "text": "285.22. 844. papildzīme \"Personām ar invaliditāti\". Norāda, ka 537. zīme attiecas tikai uz automobiļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.23",
+                "text": "285.23. 845. papildzīme \"Mitrs segums\". Norāda, ka zīme attiecas uz laikposmu, kad brauktuves segums ir mitrs;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.24",
+                "text": "285.24. 846. papildzīme \"Slidens segums\". Norāda, ka priekšā ir slidens ceļa posms, kurš klāts ar sniegu vai ledu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.25",
+                "text": "285.25. 847. papildzīme \"Galvenā ceļa virziens\". Norāda galvenā ceļa virzienu krustojumā;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.26",
+                "text": "285.26. 848. papildzīme \"Strādā autoevakuators\". Papildzīmi uzstāda kopā ar 326., 327., 328. un 329. zīmi, kā arī bez tās vietās, kur stāvošie automobiļi traucē iebraukt vai izbraukt no pagalmiem u. tml. vietām;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.27",
+                "text": "285.27. 849. papildzīme \"Pārējā papildinformācija\". Norāda informāciju, ko nesatur pārējās papildzīmes (atceļ apstāšanās un stāvēšanas aizliegumu 326., 327., 328. un 329. zīmes darbības zonā transportlīdzekļiem ar speciālām atļaujām (vadītājam automobiļa salonā pie priekšējā stikla jānovieto stāvvietas īpašnieka vai pārvaldītāja izdota attiecīga satura atļauja), norāda laikposmu, kurā atļauts iekraut un izkraut kravu un tamlīdzīgi);",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.28",
+                "text": "285.28. 850. papildzīme \"Ātrumvalnis\". Norāda, ka gājēju pāreja ierīkota uz mākslīga paaugstinājuma braukšanas ātruma samazināšanai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.29",
+                "text": "285.29. 851. papildzīme \"Maksas stāvvietas darbības laiks\". Norāda, ka ar 529. vai 537. zīmi apzīmēta stāvvieta noteiktu laiku tiek lietota kā maksas stāvvieta, bet pārējā laikā tā ir bezmaksas;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.30",
+                "text": "285.30. 852. papildzīme \"Izslēgt motoru\". Norāda, ka stāvvietā aizliegts stāvēt ar ieslēgtu motoru;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.31",
+                "text": "285.31. 853. papildzīme \"Kontroles ierīce\". Norāda, ka var būt uzstādīta stacionāra satiksmes dalībnieku vai transportlīdzekļu kontroles vai uzskaites iekārta;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.32",
+                "text": "285.32. 854. papildzīme \"Informācija par velosipēdu ceļu\". Norāda, ka pa šķērsojamo ceļu vai tā daļu ir organizēta velosipēdu un elektroskrejriteņu satiksme norādītajos virzienos;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.33",
+                "text": "285.33. 855. papildzīme \"Informācija par velosipēdu ceļu\". Zīme norāda, ka uz ceļa, kas apzīmēts ar 501. zīmi, velosipēdu un elektroskrejriteņu satiksme organizēta pa apzīmētu ceļa daļu pretēji pārējo transportlīdzekļu braukšanas virzienam. Ar bultām norāda vienvirziena vai divvirzienu satiksmi;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.34",
+                "text": "285.34. 856. papildzīme \"Informācija par velosipēdu ceļu\". Zīme velosipēdu un elektroskrejriteņu vadītājiem norāda satiksmes organizācijas kārtību, kad velosipēdu un elektroskrejriteņu satiksme organizēta pa abās ceļa malās esošiem velosipēdu ceļiem, gājēju un velosipēdu ceļiem vai kopīgiem gājēju un velosipēdu ceļiem. Virzienā, kas pārsvītrots ar sarkanas krāsas krustu, braukt aizliegts;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.35",
+                "text": "285.35. 857. papildzīme \"Velomaršruts\". Zīme norāda velosipēdu maršruta tālāko virzienu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.36",
+                "text": "285.36. 858. papildzīme \"\"EuroVelo\" maršruts\". Zīme norāda velosipēdu maršruta tālāko virzienu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.37",
+                "text": "285.37. 859. papildzīme \"Preču piegāde\". Zīme norāda stāvvietu, kas paredzēta regulārai un organizētai preču piegādei;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "285.38",
+                "text": "285.38. 860. papildzīme \"Elektromobiļiem\". Norāda, ka ar 537. zīmi apzīmētā stāvvietā ir pieejama uzlāde un atļauta transportlīdzekļu stāvēšana tikai elektromobiļiem un ārēji lādējamiem hibrīdtransportlīdzekļiem to uzlādes laikā.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "286",
+        "text": "286. 814., 815. un 816. papildzīme norāda pirms krustojuma uzstādīto zīmju darbības virzienus vai braukšanas virzienu uz stāvvietu, kas apzīmēta ar 537. vai 539. zīmi un atrodas ceļa tiešā tuvumā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "287",
+        "text": "287. 825. un 826. papildzīme norāda dienas, kurās zīme ir spēkā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "288",
+        "text": "288. Papildzīmes piestiprina tieši zem zīmes, uz kuru tās attiecas, izņemot 848. vai 853. papildzīmi, ja tā uzstādīta bez pamatzīmes. Ja zīmes novietotas virs brauktuves, nomales vai ietves, 809., 810. un 847. papildzīme var būt piestiprināta blakus zīmei.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    }
+]

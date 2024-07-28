@@ -1,0 +1,215 @@
+[
+    {
+        "number": "160",
+        "text": "160. Diennakts gaišajā laikā mehāniskajiem transportlīdzekļiem un tramvajiem jābrauc ar iedegtiem dienas gaitas, tuvās gaismas vai priekšējiem miglas lukturiem.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "161",
+        "text": "161. Braucot diennakts tumšajā laikā, transportlīdzekļiem jābūt iedegtām šādām ārējās apgaismes ierīcēm:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "161.1",
+                "text": "161.1. mehāniskajiem transportlīdzekļiem – tuvās vai tālās gaismas lukturiem, kā arī gabarītlukturiem un numura zīmes apgaismojumam;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "161.2",
+                "text": "161.2. piekabēm – gabarītlukturiem un numura zīmes apgaismojumam.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "162",
+        "text": "162. Braucot nepietiekamas redzamības apstākļos, transportlīdzekļiem jābūt iedegtām šādām ārējās apgaismes ierīcēm:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "162.1",
+                "text": "162.1. mehāniskajiem transportlīdzekļiem – tuvās gaismas, tālās gaismas vai priekšējiem miglas lukturiem, kā arī gabarītlukturiem un numura zīmes apgaismojumam;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "162.2",
+                "text": "162.2. piekabēm – gabarītlukturiem un numura zīmes apgaismojumam.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "163",
+        "text": "163. Transportlīdzekļa vadītājam tālās gaismas lukturi jāpārslēdz uz tuvās gaismas lukturiem:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "163.1",
+                "text": "163.1. apdzīvotās vietās, ja ceļš ir pietiekami un vienmērīgi apgaismots;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "163.2",
+                "text": "163.2. vismaz 150 m attālumā no pretim braucošā transportlīdzekļa vai arī lielākā attālumā, ja pretim braucošā transportlīdzekļa vadītājs par lukturu pārslēgšanas nepieciešamību signalizē, periodiski pārslēdzot lukturu gaismu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "163.3",
+                "text": "163.3. ja var apžilbināt citus vadītājus (arī tos, kuri brauc tajā pašā virzienā). Ja transportlīdzekļa vadītāju apžilbina, viņam jāieslēdz avārijas gaismas signalizācija un, nemainot braukšanas joslu, jāsamazina braukšanas ātrums vai jāaptur transportlīdzeklis.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "164",
+        "text": "164. Apstājoties un stāvot uz ceļa ārpus apdzīvotām vietām diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos, mehāniskajiem transportlīdzekļiem un to piekabēm jābūt iedegtiem gabarītlukturiem. Ja ir bieza migla, intensīvi līst vai snieg u. tml., atļauts iedegt arī tuvās gaismas lukturus vai priekšējos un pakaļējos miglas lukturus.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "165",
+        "text": "165. Apstājoties un stāvot apdzīvotās vietās neapgaismotos ceļa posmos diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos, mehāniskajiem transportlīdzekļiem un to piekabēm jābūt iedegtiem gabarītlukturiem, bet mehāniskajiem transportlīdzekļiem bez piekabēm gabarītlukturu vietā atļauts iedegt stāvgaismas lukturus brauktuves pusē. Ja ir bieza migla, intensīvi līst vai snieg u. tml., atļauts iedegt arī tuvās gaismas lukturus vai priekšējos un pakaļējos miglas lukturus.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "166",
+        "text": "166. Apstājoties un stāvot apdzīvotās vietās diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos, gabarītlukturus vai stāvgaismas lukturus atļauts neiedegt ceļa posmos, kur apturētais transportlīdzeklis citiem vadītājiem ir labi saredzams pietiekamā attālumā.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "167",
+        "text": "167. Braucot priekšējos miglas lukturus atļauts iedegt:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "167.1",
+                "text": "167.1. nepietiekamas redzamības apstākļos – atsevišķi vai kopā ar tuvās gaismas lukturiem;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "167.2",
+                "text": "167.2. diennakts tumšajā laikā neapgaismotos ceļa posmos – kopā ar tuvās gaismas lukturiem.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "168",
+        "text": "168. Pakaļējos miglas lukturus atļauts iedegt tikai tad, ja ir bieza migla, intensīvi līst vai snieg u. tml.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "169",
+        "text": "169. Prožektorus un grozāmlukturus atļauts iedegt tikai tiem transport­līdzekļiem, kuriem piešķirts operatīvo transportlīdzekļu statuss, ja netiek apžilbināti citi transportlīdzekļu vadītāji.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "170",
+        "text": "170. Lai pievērstu citu ceļu satiksmes dalībnieku uzmanību, ar lukturu gaismām drīkst signalizēt šādi:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "170.1",
+                "text": "170.1. diennakts gaišajā laikā – ar īslaicīgu tālās gaismas lukturu ieslēgšanu;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "170.2",
+                "text": "170.2. diennakts tumšajā laikā – ar vairākkārtēju īslaicīgu (tuvā gaisma – tālā gaisma) lukturu pārslēgšanu, ja netiek apžilbināti citi transportlīdzekļu vadītāji.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "171",
+        "text": "171. Velkamajam mehāniskajam transportlīdzeklim jebkurā diennakts laikā jābūt iedegtai avārijas gaismas signalizācijai. Ja avārijas gaismas signalizācijas nav vai tā nedarbojas, transportlīdzekļa aizmugurē jāpiestiprina avārijas zīme.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    }
+]

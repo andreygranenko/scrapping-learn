@@ -1,0 +1,109 @@
+[
+    {
+        "number": "172",
+        "text": "172. Skaņas signālu atļauts lietot, tikai lai novērstu ceļu satiksmei bīstamas situācijas, bet ārpus apdzīvotām vietām – arī lai pievērstu citu ceļu satiksmes dalībnieku uzmanību.",
+        "references": [],
+        "terms": [],
+        "subpoints": [],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "173",
+        "text": "173. Avārijas gaismas signalizācija jāiededz (izņemot gadījumus, ja mehāniskais transportlīdzeklis ar tādu nav aprīkots vai tā nedarbojas) un avārijas zīme uz ceļa jāizliek šādos gadījumos:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "173.1",
+                "text": "173.1. piespiedu apstāšanās gadījumā vietās, kur apstāties vai stāvēt aizliegts, vai vietās, kur redzamības, meteoroloģisko apstākļu, citu transport­līdzekļu braukšanas ātruma, ceļa seguma stāvokļa u. tml. iemeslu dēļ apturētais transportlīdzeklis var radīt draudus ceļu satiksmes drošībai;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "173.2",
+                "text": "173.2. ja noticis ceļu satiksmes negadījums vai uz brauktuves izkritusi vai izlijusi krava;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "173.3",
+                "text": "173.3. apstājoties un stāvot uz ceļa ārpus apdzīvotām vietām diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos, ja nedeg kāds no priekšējiem vai pakaļējiem gabarītlukturiem.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "174",
+        "text": "174. Braucot avārijas gaismas signalizācija jāiededz arī šādos gadījumos:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "174.1",
+                "text": "174.1. ja transportlīdzekļa vadītājs tiek apžilbināts;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "174.2",
+                "text": "174.2. velkamajam mehāniskajam transportlīdzeklim;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "174.3",
+                "text": "174.3. ja transportlīdzeklim ir kāds no šo noteikumu 223. punktā minētajiem bojājumiem.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    },
+    {
+        "number": "175",
+        "text": "175. Avārijas zīme uz ceļa jāizliek tādā attālumā no transportlīdzekļa, lai laikus brīdinātu citus transportlīdzekļu vadītājus par briesmām. Jebkurā gadījumā attālumam no avārijas zīmes līdz transportlīdzeklim jābūt šādam:",
+        "references": [],
+        "terms": [],
+        "subpoints": [
+            {
+                "number": "175.1",
+                "text": "175.1. apdzīvotās vietās – ne mazākam par 15 m;",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            },
+            {
+                "number": "175.2",
+                "text": "175.2. ārpus apdzīvotām vietām – ne mazākam par 100 m.",
+                "terms": [],
+                "img": [],
+                "references": [],
+                "source": []
+            }
+        ],
+        "img": [],
+        "source": [],
+        "brief_item_desc": ""
+    }
+]
